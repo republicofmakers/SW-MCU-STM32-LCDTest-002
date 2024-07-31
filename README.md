@@ -6,4 +6,4 @@ A LCD helps you to display data with few pin connections.
 
 Hope this helps you,
 
-Ceyhun Pempeci STM32 Blink
+Ceyhun Pempeci STM32 LCD
